@@ -117,12 +117,12 @@ Average: 47.71
 Factorial of 5: 120
 
 ## Project Files
-
-Data-Analyzer-and-Transformer/
+```text
 │
 ├── main.py
 ├── output.png
 └── README.md
+```
 
 ## Conclusion
 
